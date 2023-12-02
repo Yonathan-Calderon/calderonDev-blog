@@ -100,7 +100,7 @@ ul, ol {
     align-items: center;
     width: 40%;
     height: 100%;
-    /*font-size: var(--font-size-h2);*/
+    font-size: var(--font-size-h2);
     color: var(--white);
     
 }
@@ -514,10 +514,10 @@ ul, ol {
         height: 100vh;
     }
     .section-hero-description h2 {
-        font-size: var(--font-size-h2);
+        font-size: var(--font-size-h2-md);
     }
     .section-hero-description p {
-        font-size: var(--font-size-p);
+        font-size: var(--font-size-p-md);
     }
     .section-hero-img img {
         width: 450px;
