@@ -514,10 +514,10 @@ ul, ol {
         height: 100vh;
     }
     .section-hero-description h2 {
-        font-size: var(--font-size-h2-md);
+        font-size: var(--font-size-h2);
     }
     .section-hero-description p {
-        font-size: var(--font-size-p-md);
+        font-size: var(--font-size-p);
     }
     .section-hero-img img {
         width: 450px;
